@@ -17,7 +17,8 @@ const Team = () => {
 
     return (
         <div className='mt-6'>
-            <h1 className='text-center text-4xl font-semibold text-blue-300'>Team</h1>
+            <h1 className='text-center text-4xl text-orange-500'>useState & useEffect Practice</h1>
+            <h1 className='text-center text-4xl font-semibold text-blue-300'>Products</h1>
             <section className="text-gray-600 body-font">
                 <div className="container px-5 py-24 mx-auto">
                     <div className="flex flex-wrap -m-4">
